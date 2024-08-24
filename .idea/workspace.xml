@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="817673aa-65fb-4c77-a639-e1d3da97af8d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mysite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/MarkupSafe-2.1.5.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/MarkupSafe-2.1.5.dist-info/LICENSE.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/MarkupSafe-2.1.5.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/MarkupSafe-2.1.5.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/MarkupSafe-2.1.5.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/MarkupSafe-2.1.5.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/_argcomplete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/_code/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/_code/code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/_code/source.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/_io/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/_io/pprint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/_io/saferepr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/_io/terminalwriter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/_io/wcwidth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/_py/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/_py/error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/_py/path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/assertion/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/assertion/rewrite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/assertion/truncate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/assertion/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/cacheprovider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/capture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/config/argparsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/config/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/config/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/config/findpaths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/debugging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/deprecated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/doctest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/faulthandler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/fixtures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/freeze_support.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/helpconfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/hookspec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/junitxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/legacypath.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/mark/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/mark/expression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/mark/structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/monkeypatch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/nodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/outcomes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/pastebin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/pathlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/pytester.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/pytester_assertions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/python_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/python_path.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/recwarn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/reports.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/runner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/scope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/setuponly.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/setupplan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/skipping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/stash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/stepwise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/terminal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/threadexception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/timing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/tmpdir.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/unittest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/unraisableexception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/warning_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/_pytest/warnings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama-0.4.6.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama-0.4.6.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama-0.4.6.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama-0.4.6.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama-0.4.6.dist-info/licenses/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama/ansi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama/ansitowin32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama/initialise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama/tests/ansi_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama/tests/ansitowin32_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama/tests/initialise_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama/tests/isatty_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama/tests/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama/tests/winterm_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama/win32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/colorama/winterm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/exceptiongroup-1.2.2.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/exceptiongroup-1.2.2.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/exceptiongroup-1.2.2.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/exceptiongroup-1.2.2.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/exceptiongroup-1.2.2.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/exceptiongroup/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/exceptiongroup/_catch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/exceptiongroup/_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/exceptiongroup/_formatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/exceptiongroup/_suppress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/exceptiongroup/_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/exceptiongroup/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/iniconfig-2.0.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/iniconfig-2.0.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/iniconfig-2.0.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/iniconfig-2.0.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/iniconfig-2.0.0.dist-info/licenses/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/iniconfig/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/iniconfig/_parse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/iniconfig/_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/iniconfig/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/iniconfig/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2-3.1.4.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2-3.1.4.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2-3.1.4.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2-3.1.4.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2-3.1.4.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2-3.1.4.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/_identifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/async_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/bccache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/compiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/defaults.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/environment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/idtracking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/lexer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/loaders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/meta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/nativetypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/nodes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/optimizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/runtime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/sandbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/jinja2/visitor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/markupsafe/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/markupsafe/_native.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/markupsafe/_speedups.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/markupsafe/_speedups.cp310-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/markupsafe/_speedups.pyi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/markupsafe/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/packaging-24.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/packaging-24.1.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/packaging-24.1.dist-info/LICENSE.APACHE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/packaging-24.1.dist-info/LICENSE.BSD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/packaging-24.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/packaging-24.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/packaging-24.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/packaging/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/packaging/_elffile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/packaging/_manylinux.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/packaging/_musllinux.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/packaging/_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/packaging/_structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/packaging/_tokenizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/packaging/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/packaging/metadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/packaging/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/packaging/requirements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/packaging/specifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/packaging/tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/packaging/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/packaging/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pluggy-1.5.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pluggy-1.5.0.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pluggy-1.5.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pluggy-1.5.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pluggy-1.5.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pluggy-1.5.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pluggy/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pluggy/_callers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pluggy/_hooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pluggy/_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pluggy/_result.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pluggy/_tracing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pluggy/_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pluggy/_warnings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pluggy/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest-8.3.2.dist-info/AUTHORS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest-8.3.2.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest-8.3.2.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest-8.3.2.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest-8.3.2.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest-8.3.2.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest-8.3.2.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest-8.3.2.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest-8.3.2.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_django-4.8.0.dist-info/AUTHORS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_django-4.8.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_django-4.8.0.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_django-4.8.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_django-4.8.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_django-4.8.0.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_django-4.8.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_django-4.8.0.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_django-4.8.0.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_django/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_django/_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_django/asserts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_django/django_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_django/fixtures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_django/lazy_django.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_django/live_server_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_django/plugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_django/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_html-4.1.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_html-4.1.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_html-4.1.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_html-4.1.1.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_html-4.1.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_html-4.1.1.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_html-4.1.1.dist-info/licenses/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_html/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_html/__version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_html/basereport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_html/extras.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_html/fixtures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_html/hooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_html/plugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_html/report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_html/report_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_html/resources/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_html/resources/index.jinja2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_html/resources/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_html/selfcontained_report.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_html/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_metadata-3.1.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_metadata-3.1.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_metadata-3.1.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_metadata-3.1.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_metadata-3.1.1.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_metadata-3.1.1.dist-info/licenses/AUTHORS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_metadata-3.1.1.dist-info/licenses/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_metadata/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_metadata/__version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_metadata/ci/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_metadata/ci/appveyor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_metadata/ci/bitbucket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_metadata/ci/circleci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_metadata/ci/codebuild.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_metadata/ci/gitlab_ci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_metadata/ci/jenkins.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_metadata/ci/taskcluster.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_metadata/ci/travis_ci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_metadata/hooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/pytest_metadata/plugin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/tomli-2.0.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/tomli-2.0.1.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/tomli-2.0.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/tomli-2.0.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/tomli-2.0.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/tomli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/tomli/_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/tomli/_re.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/tomli/_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Lib/site-packages/tomli/py.typed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Scripts/py.test.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/env/Scripts/pytest.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/website/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/website/blog/views/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/website/blog/views/post_view.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/website/gitignore.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/website/pytest.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/website/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/website/tests/views/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/website/website/tests/views/test_view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iptvlista (1).m3u" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/website/blog/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/website/website/blog/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/website/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/website/website/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/website/website/website/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/website/website/website/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2l7K0263g9jTt4FwlcTkSEWM7Gi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Django Server.mysite.executor": "Run",
+    "Django tests.Test: tests.executor": "Run",
+    "Python tests.pytest for test_post.test_post_view.executor": "Run",
+    "Python tests.pytest for test_post_view.test_post_view.executor": "Run",
+    "Python tests.pytest for test_view.test_view.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/JoséSantos-BDSDataSo/django-Janio/mysite/website/website/tests/views",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JoséSantos-BDSDataSo\django-Janio\mysite\website\website\tests\views" />
+      <recent name="C:\Users\JoséSantos-BDSDataSo\django-Janio\mysite\website\website\tests" />
+      <recent name="C:\Users\JoséSantos-BDSDataSo\django-Janio\mysite\website\website\blog\views" />
+      <recent name="C:\Users\JoséSantos-BDSDataSo\django-Janio\mysite\tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\JoséSantos-BDSDataSo\django-Janio\mysite\website\website" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_view.test_view">
+    <configuration name="Test: tests" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="mysite" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="tests" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mysite" type="Python.DjangoServer" factoryName="Django server">
+      <module name="mysite" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="website.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_post.test_post_view" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="mysite" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/views" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_post.test_post_view&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_view.test_view" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="mysite" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/website/website/tests/views" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_view.test_view&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for tests.views.test_view.test_post_view" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="mysite" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/website/website/tests/views" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests.views.test_view.test_post_view&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_view.test_view" />
+        <item itemvalue="Django tests.Test: tests" />
+        <item itemvalue="Python tests.pytest for tests.views.test_view.test_post_view" />
+        <item itemvalue="Python tests.pytest for test_post.test_post_view" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="817673aa-65fb-4c77-a639-e1d3da97af8d" name="Changes" comment="" />
+      <created>1724525447951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724525447951</updated>
+      <workItem from="1724525448993" duration="4883000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mysite$pytest_for_test_post_test_post_view.coverage" NAME="pytest for test_post.test_post_view Coverage Results" MODIFIED="1724528084543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests/views" />
+    <SUITE FILE_PATH="coverage/mysite$pytest_for_test_view_test_view.coverage" NAME="pytest for test_view.test_view Coverage Results" MODIFIED="1724529846794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/website/website/tests/views" />
+    <SUITE FILE_PATH="coverage/mysite$pytest_for_test_post_view_test_post_view.coverage" NAME="pytest for test_post_view.test_post_view Coverage Results" MODIFIED="1724528457787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/website/website/tests/views" />
+    <SUITE FILE_PATH="coverage/mysite$Test__tests.coverage" NAME="Test: tests Coverage Results" MODIFIED="1724528607511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
